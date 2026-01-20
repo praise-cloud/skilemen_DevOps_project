@@ -1,0 +1,26 @@
+{
+  "name": "skilemen_devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praise-cloud/skilemen_DevOps_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/praise-cloud/skilemen_DevOps_project/issues"
+  },
+  "homepage": "https://github.com/praise-cloud/skilemen_DevOps_project#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
