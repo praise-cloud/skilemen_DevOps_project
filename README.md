@@ -1,10 +1,5 @@
 # skilemen_DevOps_project
 
-Below is your final, ready-to-use README.md file, written clearly, simply, and at a junior DevOps level, using Render as requested.
-
-You can copy this directly into your README.md.
-
-
 ---
 
 DevOps Task – Backend Deployment Using Render
